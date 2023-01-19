@@ -62,5 +62,5 @@ async function getUser():Promise<any>{
 
 ## Check list
 * [x] Laptop
-* [] keyboard
+* [ ] keyboard
 
