@@ -29,11 +29,11 @@ function anc(){
 >Hello World
 
 ## List
-[ ] a
+* [X] a
 
-[ ] b
+* [ ] b
 
-[ ] c
+* [ ] c
 
 ## Table
 name | email
