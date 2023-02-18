@@ -34,6 +34,7 @@ function anc(){
 * [ ] b
 
 * [ ] c
+* [X] D
 
 ## Table
 name | email
